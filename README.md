@@ -24,7 +24,7 @@ A **static**, production-ready mockup of the QuietIQ capstone project report. Th
 _View of the static hero section with “Get Your Noise Report” modal._
 
 You can preview the live, exported site here:  
-https://YOUR_USERNAME.github.io/quietiq-frontend/
+https://y8o.github.io/quiet.iq/
 
 ## Features
 
